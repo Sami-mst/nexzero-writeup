@@ -4,12 +4,6 @@
 
 Welcome to the IDOR (Insecure Direct Object Reference) challenge! Your goal is to exploit IDOR vulnerabilities to access user profiles and files.
 
-## Instructions
-
-1. Visit the provided web application at http://localhost:3000
-2. Explore the profiles and files available on the platform.
-3. Find and retrieve the hidden flag.
-
 ## Intended Approach
 
 The challenge involves leveraging IDOR vulnerabilities to access unauthorized user profiles and files. Participants should carefully inspect the application's behavior, URL parameters, and authentication mechanisms.
